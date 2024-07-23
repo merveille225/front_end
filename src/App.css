@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #212121;
+  color: whitesmoke;
+  flex-direction: column;
+}
+
+.main-header{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.create-form label{
+  color: whitesmoke !important;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px !important;
+}
+
+.bilan-form label{
+  color: whitesmoke !important;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px !important;
+}
+
+.conclusion-form label{
+  color: whitesmoke !important;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px !important;
+}
+
+.projet-form label{
+  color: whitesmoke !important;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px !important;
+}
+
+.pointamélioration-form label{
+  color: whitesmoke !important;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px !important;
+}
+
+.fa-trash  {
+  color: red;
+}
+
+.fa-pen {
+  color: green;
+}
+
+.fa-thumbs-up {
+  color:blue;
+}
+
+.fa-thumbs-down {
+  color: orange;
+}
+
+.fa-heart  {
+  color: palevioletred;
+}
+
+.main {
+  background-image:url("https://starwalk.space/gallery/images/what-is-supermoon/1920x1080.jpg") ;
+}
+
+.navbar {
+  text-align: center;
+}
+
+.nav-item1 {
+  margin-bottom: 10px;
+}
+
+.nav-link1 {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+  font-size: 30px;
+  font-weight: bold;
+}
+
